@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+}
+body{
+    background: linear-gradient(#ffffff, pink, rgb(202, 113, 202));
+}
+
+h1 {
+    font-size: 40px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+h2 {
+    font-size: 30px;
+    margin: 15px 15px;
+    padding-left: 10px;
+}
+header {
+     margin: 10px 10px;
+     padding-left: 10px;
+}
+section{
+    padding-left: 10px;
+}
+table{
+    padding-left: 10px;
+}
+p {
+    padding-left: 10px;
+    padding: 10px 10px;
+}
+main {
+    margin: 10px 10px;
+    padding-left: 10px;
+}
+footer {
+    margin-top: 45px;
+    background-color: rgb(184, 123, 202);
+    color:#000;
+}
+    
+nav li{
+    padding: 5px 5px;
+    
+}
